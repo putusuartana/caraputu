@@ -1,37 +1,37 @@
 {
-  "name": "Blog CaraPutu",
-  "short_name": "Blog CaraPutu",
-  "start_url": "https://kompitext.blogspot.com/",
+  "name": "Game CaraPUTU",
+  "short_name": "Game CaraPUTU",
+  "start_url": "https://game.caraputu.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "All About SEO | Backlink | Social Media.",
+  "description": "All About Game Review | Download | How To Play.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-xvVeObJv8Wc/XYL777kA0zI/AAAAAAAATGE/6MgkZuLeeD0_2t7Eucg0wqqbObxJQAA1gCLcBGAsYHQ/s48/Blog%2BCaraputu%2B512.png",
+    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s48/Game%2BCaraPUTU%2B512.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-xvVeObJv8Wc/XYL777kA0zI/AAAAAAAATGE/6MgkZuLeeD0_2t7Eucg0wqqbObxJQAA1gCLcBGAsYHQ/s72/Blog%2BCaraputu%2B512.png",
+    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s72/Game%2BCaraPUTU%2B512.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-xvVeObJv8Wc/XYL777kA0zI/AAAAAAAATGE/6MgkZuLeeD0_2t7Eucg0wqqbObxJQAA1gCLcBGAsYHQ/s96/Blog%2BCaraputu%2B512.png",
+    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s96/Game%2BCaraPUTU%2B512.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-xvVeObJv8Wc/XYL777kA0zI/AAAAAAAATGE/6MgkZuLeeD0_2t7Eucg0wqqbObxJQAA1gCLcBGAsYHQ/s144/Blog%2BCaraputu%2B512.png",
+    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s144/Game%2BCaraPUTU%2B512.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-xvVeObJv8Wc/XYL777kA0zI/AAAAAAAATGE/6MgkZuLeeD0_2t7Eucg0wqqbObxJQAA1gCLcBGAsYHQ/s168/Blog%2BCaraputu%2B512.png",
+    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s168/Game%2BCaraPUTU%2B512.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-xvVeObJv8Wc/XYL777kA0zI/AAAAAAAATGE/6MgkZuLeeD0_2t7Eucg0wqqbObxJQAA1gCLcBGAsYHQ/s192/Blog%2BCaraputu%2B512.png",
+    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s192/Game%2BCaraPUTU%2B512.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-xvVeObJv8Wc/XYL777kA0zI/AAAAAAAATGE/6MgkZuLeeD0_2t7Eucg0wqqbObxJQAA1gCLcBGAsYHQ/s512/Blog%2BCaraputu%2B512.png",
+    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s512/Game%2BCaraPUTU%2B512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
