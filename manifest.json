@@ -1,37 +1,37 @@
 {
-  "name": "Game CaraPUTU",
-  "short_name": "Game CaraPUTU",
-  "start_url": "https://game.caraputu.com/",
+  "name": "KompiTextAja",
+  "short_name": "KompiTextAja",
+  "start_url": "https://kompitext.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "All About Game Review | Download | How To Play.",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s48/Game%2BCaraPUTU%2B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXNfMIP8RdSvrDhXyNKsHX-mwjcmVNieW9PU2oBJU-GdtCQlRstoMMWcaZypUEIgl9l3dVTqrklmsMvua50EFizsxitRQHBH0bSeaMDDZ4NKJ_K73h-S9ug_tkcGz-pKlxHg-3SL-JNvuVqt7j7ubsDGT0PZzhA_vCt-EajsnzliHTiXZHNYNhTvdOrLVH/s48/android-icon-48x48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s72/Game%2BCaraPUTU%2B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ0Kq-rxTJMuy06we2JmdhgbX7nA_so_21wRA1MpLJkqz4LndyNzNpy3moEI344HpdNJ-HVVEiLJw-u7co-Zef57tnhILf8Qcd9EY6y6pACq3smiSC6VwqC9Pkk2n3OU4X-ecCpgpXslMhoU8BEZHY9uY-V4B3Nq-j2IN0Zt7U88ZQ6biLLZ87AiJ6tkD_/s72/apple-icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s96/Game%2BCaraPUTU%2B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdU4xkwQPwTEFWkmPgvX5WXEm6TMTZe1Id-YenTSd4VBaV7aryA0AtQ43siDQrA7WxkU5ozq7n_kwqLyAhFPbsu1hSpgkY2Nf-2avfvMctdHdPWUeopwRH6f7zEcRcIEnYEXCNppHyKk6ecu6-XTxWpZaGirlgRxK3-RXTm_HpG5HLLhhddc0gHgI_se24/s96/android-icon-96x96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s144/Game%2BCaraPUTU%2B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY9SdYDJT_xMxKkhTN3mAysXTWxH_hwvWjUxBlJijmwP7GIEy4HAjftOrNUanFIaAKnFE5vX6g9CfdtMHZWADKfcHp8rEkJCB6h_ax7Y-WMixVK3nOd0QpxytDJ0gwKelFnH-y47r-CDe2QktDSPkJ2D4qpdQdKhO7b8NjmubzKLW2BN9dWiaXELIrlXM7/s144/android-icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s168/Game%2BCaraPUTU%2B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7kREipxmnskOTvmeK4DmLpf-KGAQkM1wxCIOR2_zqBnz6M1-UXeJAyiVLR2puUKIL4flpOXniB_JJYceogtlTOZt3Wuv4Ip-4jQwObYBVSPj64kJIwGhVjZDywrQ7wEXmJk0HPxR7WDu1_BHzQCxocexNGR0GoGkNDKlPoIWDCDraA8txbVEp-thWIdat/s150/ms-icon-150x150.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s192/Game%2BCaraPUTU%2B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqHqHtYzmTn5ZLw0n_WsWBo8sOBxxz1wmODHyyGXo3iWy1a4Pc70f7n0ufWP--f5EHFifExkW0TNQ4GFic7dV6lXQAMtdq7YkBndW3BiAjQ4Ui_OP77NYKhzHfFwywDVBuBZUTzoGyB50TIx3tvkVniJoYQ3J1u4mc76wRYk600sZHlik_TFM1g0obfGxu/s192/android-icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-027j1Ryuxz0/XYRDZ47i6AI/AAAAAAAATII/a0dFwM-l3uYKwwplAnh2PaL6MpvvpDDBgCLcBGAsYHQ/s512/Game%2BCaraPUTU%2B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMVF2lLl6ImOIoKKcInVJOV-is7z7AHhbnSWY7ermOGH0WJCJvnRK3pVbMHq4Cj15chDqgCaEGVFZ9QE2-TckVug-KwF3BvSTrRDXjElwQ27Hdi8fnbo7T0aojfu_FOdPx3aB5XBt1aw0Q7I-Bu61UgosdX2IGlazfje-1o58rWMGC46Hwk1fSxta_oKRp/s310/ms-icon-310x310.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
